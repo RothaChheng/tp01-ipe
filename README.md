@@ -41,5 +41,3 @@ Create README.md file
 git commit -m "Add README.md file"
 git config --global --add --bool push.autoSetupRemote true
 ```
-
-### The output of git hub
